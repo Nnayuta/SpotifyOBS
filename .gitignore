@@ -1,0 +1,8 @@
+e17950e8779946a8b1a17cc8d31349a0
+node_modules/
+SpotifyOBS-win32-x64/
+token/
+obs/
+.env
+Testing/
+spotifyAPI/api.js

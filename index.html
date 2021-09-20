@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="Content-Security-Policy" content="script-src 'self';">
+    <title>Spotify for OBS</title>
+    <link rel="stylesheet" href="./style.css">
+</head>
+
+<body>
+    <nav class="dag">
+        <img id="icon" src="./spotifyobs.ico">
+        <button class="navButton" id="mi" >-</button>
+        <button class="navButton" id='ex' >X</button>
+    </nav>
+    <main class="container">
+        <div class="input-field">
+            <span>TOKEN</span>
+            <input type="password" id="sToken" value="" disabled>
+            <div class="underline"></div>
+        </div>
+
+        <div class="input-field">
+            <span>Server</span>
+            <button class="Mbutton" id='sButton'>Iniciar</button>
+            <div class="underline"></div>
+        </div>
+        <div class="input-field">
+            <span>Placeholder - Musica</span>
+            <input type="text" name="placeMusica" id="placeMusica" placeholder="Digite ou deixe vazio">
+            <div class="underline"></div>
+        </div>
+        <div class="input-field">
+            <span>Placeholer - Artista</span>
+            <input type="text" name="placeArtista" id="placeArtista" placeholder="Digite ou deixe vazio">
+            <div class="underline"></div>
+        </div>
+        <div class="input-field">
+            <span>Placeholer - Image URL</span>
+            <input type="text" name="placeImage" id="placeImage" placeholder="URL Exemplo: http://img.png">
+            <div class="underline"></div>
+        </div>
+        <button type="submit" id='placeSave'>Salvar</button>
+        <div class="input-field">
+            <button class="Mbutton" id="abrir">Abrir Pasta[WIP]</button>
+            <div class="underline"></div>
+        </div>
+        <div class="footer">
+            <footer>&copy; Nayuta</footer>
+        </div>
+    </main>
+</body>
+
+</html>
