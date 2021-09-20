@@ -11,9 +11,9 @@
 ##
 
 <h1> Screenshot </h1>
-<img src='https://github.com/Nnayuta/SpotifyOBS/blob/8db2f6a2c4a4557e45b82828691bbad6ad2ad42e/Screenshot_1.png'/>
+<img src='https://github.com/Nnayuta/SpotifyOBS/blob/93ac146c9ec10ba3cd96787220074eedd88d767d/Screenshot_1.png'/>
 <span> files in obs folder </span>
-<img src='https://github.com/Nnayuta/SpotifyOBS/blob/8db2f6a2c4a4557e45b82828691bbad6ad2ad42e/Screenshot_2.png'/>
+<img src='https://github.com/Nnayuta/SpotifyOBS/blob/93ac146c9ec10ba3cd96787220074eedd88d767d/Screenshot_2.png'/>
 
 não sei se posso publicar o app por que minha api esta em desenvolvimento no spotify.
 
