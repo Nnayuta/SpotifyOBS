@@ -17,8 +17,3 @@
 
 não sei se posso publicar o app por que minha api esta em desenvolvimento no spotify.
 
-##
-
-## - I'll upgrade to an English version later.
-I'm still learning JS.
-
