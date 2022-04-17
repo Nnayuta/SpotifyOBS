@@ -4,10 +4,9 @@ const { currentArtist } = require('./currentArtist');
 
 function updateMusic(data) {
 
-    //PEGA O NOME DA MUSICA ATUAL
+    //SALVA O NOME DA MUSICA ATUAL
     currentPlaying(data.body.item.name);
-    //Armazena a musica para verificar se não ja esta tocando e não baixa as informações novamente
-    //PEGA A IMAGEM DA MUSICA ATUAL
+    //SALVA A IMAGEM DA MUSICA ATUAL
     getMusicImage(data.body.item.album.images[0].url)
     //Salva o nome de todos os artistas em um arquivo
     currentArtist(data.body.item);

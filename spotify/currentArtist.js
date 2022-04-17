@@ -9,7 +9,7 @@ function currentArtist(item) {
         artistName += `${item.artists[id]?.name}  `
     }
 
-    console.log)(`> [ARTIST]  ${artistName}`)
+    console.log(`> [ARTIST]  ${artistName}`)
 
     escreverArtista(`${artistName}                             `)
 
